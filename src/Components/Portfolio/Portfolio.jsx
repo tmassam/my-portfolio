@@ -12,7 +12,7 @@ const items = [
   {
     id: 2,
     title: "DermAI Image Recognition Tool",
-    img: "/public/DermAI.png",
+    img: "/DermAI.png",
     desc: "Image Recognition Service utilizing AWS, OpenAI API, and machine learning to diagnosis and offer treatment advice for various skin diseases. Trained a Machine Learning Model with over 10,000 images to recognize skin diseases. Used GPT-3 to suggest action and treatment. Automated entire process with Lambda Functions (written in Python) and API Gateway. Built front end with ReactJS to allow users to submit photos from their device and authentication using Amazon Cognito.",
   },
   {
@@ -24,7 +24,7 @@ const items = [
   {
     id: 4,
     title: "Network Traffic Visualizer",
-    img: "/public/Network-Traffic.png",
+    img: "/Network-Traffic.png",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
   },
 ];
